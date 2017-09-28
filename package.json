@@ -16,6 +16,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage" : "https://safarishi.github.io/react-playground",
   "devDependencies": {
     "gh-pages": "^1.0.0"
   }
